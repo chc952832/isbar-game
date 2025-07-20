@@ -255,6 +255,7 @@ async function handleSubmitScore() {
   font-size: 24px;
   margin-bottom: 20px;
   text-align: center;
+  color: #444;
 }
 .subtitle {
   font-size: 18px;
@@ -287,6 +288,7 @@ async function handleSubmitScore() {
   gap: 15px;
   justify-content: center;
   margin: 30px 0;
+  color: #444;
 }
 .drop-zone {
   background: #f5f5f5;

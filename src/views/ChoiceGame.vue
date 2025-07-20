@@ -158,6 +158,7 @@ async function handleSubmitScore() {
   justify-content: center;
   gap: 0.5rem;
   margin-bottom: 1.5rem;
+  color: #444;
 }
 
 .icon {
@@ -177,6 +178,7 @@ async function handleSubmitScore() {
   margin-bottom: 1rem;
   border: 1px solid #ccc;
   font-size: 1.1rem;
+  color: #444;
 }
 
 .choices {
