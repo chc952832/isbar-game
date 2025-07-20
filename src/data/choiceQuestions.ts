@@ -25,7 +25,7 @@ export const choiceQuestions = [
     explanation: '提出治療建議與後續處理，屬於 Recommendation（R）。'
   },
   {
-    text: '目前以 PRVC 模式通氣，設定 VT 450 ml。',
+    text: 'PRVC, VT 450 ml, FiO2:80%, PEEP:12, Ti:0.8, RR:20',
     correctCategory: 'R',
     explanation: '呼吸器設定屬於 Recommendation（R）。'
   },
@@ -40,7 +40,7 @@ export const choiceQuestions = [
     explanation: '描述過去接受的檢查與發現，屬於 Background（B）。'
   },
   {
-    text: '目前以 midazolam 持續鎮靜，每小時 2 mg/hr。',
+    text: 'midazolam 持續鎮靜，每小時 2 mg/hr。',
     correctCategory: 'A',
     explanation: '藥物使用狀況屬於評估，歸為 Assessment（A）。'
   },
@@ -75,7 +75,7 @@ export const choiceQuestions = [
     explanation: '屬於後續處置安排，歸為 Recommendation（R）。'
   },
   {
-    text: '因左側氣胸，目前左側有一支Chest tube(07/12~)。',
+    text: '因左側氣胸，現左側有一支Chest tube(07/12~)。',
     correctCategory: 'A',
     explanation: '現存管路屬於 Assessment（A）。'
   },
@@ -165,7 +165,7 @@ export const choiceQuestions = [
     explanation: '今日狀況及變化，屬於 Situation（S）。'
   },
   {
-    text: '目前鎮靜劑Fentanyl, Midazolam 使用中。',
+    text: '鎮靜劑Fentanyl, Midazolam 使用中。',
     correctCategory: 'A',
     explanation: '藥物使用屬於 Assessment（A）。'
   },

@@ -375,6 +375,7 @@ async function handleSubmitScore() {
   border: 1px solid #ddd;
   padding: 15px;
   border-radius: 8px;
+  color: #444;
 }
 .correct {
   color: green;

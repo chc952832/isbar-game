@@ -258,6 +258,7 @@ async function handleSubmitScore() {
   background: #e7f5ff;
   border-radius: 12px;
   padding: 1.5rem;
+  color: #444;
 }
 
 .home-button {
